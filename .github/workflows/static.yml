@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shine Car Detailing</title>
+    <!-- Ajoutez des liens vers des fichiers CSS supplémentaires si nécessaire -->
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Shine Car Detailing</h1>
+        <p>Votre partenaire pour un detailing automobile exceptionnel</p>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="#accueil">Accueil</a></li>
+            <li><a href="#services">Nos Services</a></li>
+            <li><a href="#tarifs">Tarifs</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+
+    <section id="accueil">
+        <h2>Bienvenue chez Shine Car Detailing</h2>
+        <p>Nous offrons des services de detailing automobile de haute qualité pour redonner vie à votre voiture.</p>
+        <!-- Ajoutez des images ou des vidéos de vos services -->
+    </section>
+
+    <section id="services">
+        <h2>Nos Services</h2>
+        <ul>
+            <li>Nettoyage intérieur et extérieur</li>
+            <li>Polissage et cirage de carrosserie</li>
+            <li>Nettoyage des tapis et des sièges</li>
+            <!-- Ajoutez d'autres services -->
+        </ul>
+    </section>
+
+    <section id="tarifs">
+        <h2>Tarifs</h2>
+        <!-- Ajoutez une table ou une liste de tarifs -->
+    </section>
+
+    <section id="contact">
+        <h2>Contactez-nous</h2>
+        <!-- Ajoutez un formulaire de contact -->
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Shine Car Detailing. Tous droits réservés.</p>
+    </footer>
+</body>
+</html>
